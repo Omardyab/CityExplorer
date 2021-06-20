@@ -85,7 +85,7 @@ class App extends React.Component {
         err: 'This is a bad response Error 404',
         disErr: true,
         disweather: false,
-        disMap: false,
+        
 
       })
     }
