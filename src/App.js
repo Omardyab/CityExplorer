@@ -75,8 +75,7 @@ class App extends React.Component {
         weatherData: renderWeather.data,
         disweather: true,
         diswErr: false,
-        descriptionWeather: renderWeather.data.description,
-        dateWeather: renderWeather.data.valid_date,
+
       })
       console.log(this.state.weatherData);
     }
